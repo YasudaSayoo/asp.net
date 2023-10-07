@@ -1,0 +1,14 @@
+/home/lixun/study/asp.net/c#/04/bin/Debug/net7.0/04
+/home/lixun/study/asp.net/c#/04/bin/Debug/net7.0/04.deps.json
+/home/lixun/study/asp.net/c#/04/bin/Debug/net7.0/04.runtimeconfig.json
+/home/lixun/study/asp.net/c#/04/bin/Debug/net7.0/04.dll
+/home/lixun/study/asp.net/c#/04/bin/Debug/net7.0/04.pdb
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/04.GeneratedMSBuildEditorConfig.editorconfig
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/04.AssemblyInfoInputs.cache
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/04.AssemblyInfo.cs
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/04.csproj.CoreCompileInputs.cache
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/04.dll
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/refint/04.dll
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/04.pdb
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/04.genruntimeconfig.cache
+/home/lixun/study/asp.net/c#/04/obj/Debug/net7.0/ref/04.dll
